@@ -1,3 +1,31 @@
-.container{
-    margin: auto; 
+.background {
+    background-image: url("https://www.hbo.com/content/dam/hbodata/series/game-of-thrones/episodes/7/iced-key-art/got_s7_ka.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg");
 }
+
+.row {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container{
+    margin-top: 60px;
+}
+
+.jumbotron {
+    opacity: 0.8;
+}
+
+
+.center {
+    text-align: center;
+}
+
+
+.fontChange {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fontChangeBold {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
